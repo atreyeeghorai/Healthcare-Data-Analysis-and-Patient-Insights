@@ -365,7 +365,7 @@ pip install -r requirements.txt
 ### 3. Launch Jupyter Notebook
 
 ```bash
-jupyter notebook notebooks/TanishqBanger_Healthcare_Data_Analysis_and_Patient_Insights.ipynb
+jupyter notebook notebooks/AtreyeeGhorai_Healthcare_Data_Analysis_and_Patient_Insights.ipynb
 ```
 
 ### 4. Run All Cells
